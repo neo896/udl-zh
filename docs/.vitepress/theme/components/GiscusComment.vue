@@ -2,7 +2,7 @@
     <div style="margin-top: 24px">
         <Giscus
             id="comments"
-            repo="haovei/site"
+            repo="neo896/udl-zh"
             repoid="R_kgDONMzW1g"
             category="General"
             categoryid="DIC_kwDONMzW1s4CkH5E"

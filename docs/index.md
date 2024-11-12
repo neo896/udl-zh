@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
-  <h1 style="font-size: 3.5em; margin-bottom: 0.5em;margin-top: 0.5em;">理解深度学习</h1>
+  <h1 style="font-size: 3.0em; margin-bottom: 0.5em;margin-top: 0.5em;">理解深度学习</h1>
   
   <div style="text-align: center; margin-bottom: 2em;">
     <p style="font-size: 1.2em; margin-bottom: 0.5em;">作者：Simon J.D Prince</p>

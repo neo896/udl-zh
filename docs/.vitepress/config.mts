@@ -80,7 +80,7 @@ export default defineConfig({
     nav: nav(),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/neo896/udl-zh' }
     ]
   }
 })
